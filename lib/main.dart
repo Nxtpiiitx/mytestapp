@@ -4,7 +4,6 @@ import 'package:mytestapp/page_answer/answer1.dart';
 import 'package:mytestapp/page_answer/answer2.dart';
 import 'package:mytestapp/page_answer/answer3.dart';
 import 'package:mytestapp/page_answer/answer4.dart';
-import 'package:mytestapp/page_answer/answer5.dart';
 import 'package:mytestapp/page_answer/answer_portal.dart';
 
 void main() {
