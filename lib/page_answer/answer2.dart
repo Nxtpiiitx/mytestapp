@@ -7,7 +7,7 @@ class Answer2 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Social Media Post"),
-        backgroundColor: Colors.orange,
+        backgroundColor: const Color.fromARGB(255, 255, 153, 0),
       ),
       body: Container(
         padding: const EdgeInsets.all(10),
@@ -52,7 +52,7 @@ class Answer2 extends StatelessWidget {
                 ElevatedButton(onPressed: () {}, child: const Text("Like")),
                 const SizedBox(width: 61),
                 ElevatedButton(onPressed: () {}, child: const Text("Comment")),
-                const SizedBox(width: 61),
+                const SizedBox(width: 6),
                 ElevatedButton(onPressed: () {}, child: const Text("Share")),
               ],
             )
