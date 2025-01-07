@@ -25,7 +25,7 @@ class AnswerPortal extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('My Answer'),
-        backgroundColor: Colors.orange,
+        backgroundColor: const Color.fromARGB(255, 255, 153, 0),
       ),
       body: Container(
         color: Colors.lightBlue[50], // สีพื้นหลังอ่อน
